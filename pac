@@ -5882,6 +5882,7 @@ var rules = [
             "youtu.be",
             "youtube-nocookie.com",
             "youtube.com",
+            "f-droid.org",
             "youtubecn.com",
             "youtubeeducation.com",
             "youtubegaming.com",
